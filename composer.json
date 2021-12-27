@@ -1,0 +1,17 @@
+{
+    "name": "yu/test",
+    "description": "this is description",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yu",
+            "email": "181@qq.com",
+            "homepage": "https://github.com/yulingfeng59/test.git"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yu\\": "src/"
+        }
+    }
+}
